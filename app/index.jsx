@@ -4,7 +4,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { images } from "../constants";
 import { Redirect, router } from "expo-router";
 import CustomButton from "../components/CustomButton";
-//1:29:30
+//1:42:18
 export default function App() {
   return (
     <SafeAreaView className="bg-primary h-full">
